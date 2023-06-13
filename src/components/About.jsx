@@ -9,6 +9,10 @@ export default function About(){
         <div>
             <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
             <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
+            <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
+            <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
+            <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
+            <p className=" mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat. Lobortis feugiat vivamus at augue eget arcu dictum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui.</p>
         </div>
     </section>
     )
