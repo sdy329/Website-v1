@@ -11,17 +11,17 @@ export default function Projects() {
                         <a href="https://www.github.com/NUKE-robotics" target="_blank">
                             <div className="flex relative h-60">
                                 <picture>
-                                    <source media="(min-width: 768px)" srcset="./src/img/NUKEBanner.png" />
-                                    <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center opacity-90 transition-all motion-reduce:transition-none" src="./src/img/NUKE.jpg" />
+                                    <source media="(min-width: 768px)" srcset="./NUKEBanner.png" />
+                                    <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center opacity-95 transition-all motion-reduce:transition-none" src="./NUKE.jpg" />
                                 </picture>
-                                <div className="px-4 py-4 sm:px-8 sm:py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-90 lg:opacity-0 hover:opacity-90 transition-all motion-reduce:transition-none">
+                                <div className="px-4 py-4 sm:px-8 sm:py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-95 lg:opacity-0 hover:opacity-95 transition-all motion-reduce:transition-none">
                                     <h2 className="tracking-wide text-sm title-font font-medium text-cyan-600 mb-1">
                                         C++ [PROS Library]
                                     </h2>
                                     <h1 className="title-font text-lg font-medium text-slate-200 mb-3">
                                         NUKE Robotics
                                     </h1>
-                                    <p className="leading-relaxed">I founded a competitive robotics program at Northern Kentucky University. My roles on the team included: President, Programmer, Driver.</p>
+                                    <p className="leading-relaxed text-slate-400">I founded a competitive robotics program at Northern Kentucky University. My roles on the team included: President, Programmer, and Driver.</p>
                                 </div>
                             </div>
                         </a>
@@ -30,17 +30,17 @@ export default function Projects() {
                         <a href="https://github.com/sdy329/kvs-bot" target="_blank">
                             <div className="flex relative h-60">
                                 <picture>
-                                    <source media="(min-width: 768px)" srcset="./src/img/KVSBanner.png" />
-                                    <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center opacity-90 transition-all motion-reduce:transition-none" src="./src/img/KVS.png" />
+                                    <source media="(min-width: 768px)" srcset="./KVSBanner.png" />
+                                    <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center opacity-95 transition-all motion-reduce:transition-none" src="./KVS.png" />
                                 </picture>
-                                <div className="px-4 py-4 sm:px-8 sm:py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-90 lg:opacity-0 hover:opacity-90 transition-all motion-reduce:transition-none">
+                                <div className="px-4 py-4 sm:px-8 sm:py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-95 lg:opacity-0 hover:opacity-95 transition-all motion-reduce:transition-none">
                                     <h2 className="tracking-wide text-sm title-font font-medium text-cyan-600 mb-1">
                                         TypeScript
                                     </h2>
                                     <h1 className="title-font text-lg font-medium text-slate-200 mb-3">
                                         KVS Bot
                                     </h1>
-                                    <p className="leading-relaxed">Discord Bot I develop to help with moderation of the Kentucky VEX Server.</p>
+                                    <p className="leading-relaxed text-slate-400">Discord Bot I develop to help with moderation of the Kentucky VEX Server.</p>
                                 </div>
                             </div>
                         </a>

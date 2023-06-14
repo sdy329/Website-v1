@@ -24,6 +24,7 @@ export default function Socials() {
                     </svg>
                 </a>
             </li>
+            {/*
             <li>
                 <a href="https://www.twitter.com/sdy329" target="_blank" className="block hover:text-slate-200">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="h-8 w-8" viewBox="0 0 24 24">
@@ -31,6 +32,7 @@ export default function Socials() {
                     </svg>
                 </a>
             </li>
+    */}
         </ul>
     )
 }
