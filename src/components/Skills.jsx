@@ -26,7 +26,7 @@ export default function Skills() {
                 </div>
             </div>
             <div>
-                <a href="./SYates-Resume-2022.pdf">
+                <a href="./SYates-Resume-2023.pdf">
                     <h2 className="text-sm uppercase tracking-widest text-slate-200 transition-all hover:font-bold">View Resume ➔</h2>
                 </a>
             </div>
