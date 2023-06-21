@@ -707,14 +707,6 @@ video {
   resize: none;
 }
 
-.scroll-mt-16 {
-  scroll-margin-top: 4rem;
-}
-
-.scroll-mt-20 {
-  scroll-margin-top: 5rem;
-}
-
 .list-disc {
   list-style-type: disc;
 }
