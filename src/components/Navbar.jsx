@@ -11,13 +11,11 @@ export default function Navbar() {
                     ['Contact', 'contact'],
                 ].map(([title, url]) => (
                     <li key={title}>
-                        <a href="">
-                        <Link to={url} spy={true} offset={-95} className="group flex items-center py-1" activeClass="active">
+                        <Link to={url} spy={true} offset={-95} className="group flex items-center py-1 cursor-pointer" activeClass="active">
                             <span className="nav-text py-1 text-xs font-bold uppercase tracking-tight text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200 rounded-lg group-hover:bg-slate-800 group-hover:px-3 transition-all motion-reduce:transition-none cursor-pointer">
                                 {title}
                             </span>
                         </Link>
-                        </a>
                     </li>
                 ))}
             </ul>
