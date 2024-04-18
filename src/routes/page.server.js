@@ -1,3 +1,5 @@
+import { sql, db } from "@vercel/postgres";
+
 async function seed() {
     const createTable = await sql`
     CREATE TABLE IF NOT EXISTS users (
