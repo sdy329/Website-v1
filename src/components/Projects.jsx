@@ -1,7 +1,7 @@
 import projectArray from "./ProjectArray"
 
 export default function Projects() {
-
+    const projectsArray = projectArray();
 
     return (
         <section id="projects" className="lg:mb-20 mb-10">
